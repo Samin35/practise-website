@@ -1,0 +1,48 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Secular One', sans-serif;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+margin: 0%;
+}
+
+span{
+    color: orange;
+}
+
+.sec1{
+    display: flex;
+}
+
+.div1{
+  width: 70%;
+
+  padding-left: 60px;
+  padding-top: 120px;
+}
+
+.div2{
+width: 50%;
+
+padding-left: 100px;
+
+}
+
+.div2 img{
+    width: 75%;
+    
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 40px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.sec1{
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+   
+}
