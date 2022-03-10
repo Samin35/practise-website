@@ -4,6 +4,8 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Secular One', sans-serif;
 font-family: 'ZCOOL QingKe HuangYou', cursive;
 margin: 0%;
+background-image: url();
+
 }
 
 span{
@@ -42,7 +44,22 @@ padding-left: 100px;
 }
 
 .sec1{
-    background-image: url(1.png);
+    background-image: url(4.png);
     background-repeat: no-repeat;
+    margin-bottom: 50px;
    
 }
+
+.sec2{
+    display: flex;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+
+    margin-bottom: 150px;
+   
+}
+
+  .twodiv{
+
+    display: flex;
+  }
